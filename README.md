@@ -5,7 +5,7 @@ This is my personal responsive portfolio website built using HTML, CSS, and Java
 ---
 
 ## 🚀 Live Demo
-👉 [View Portfolio](#your-live-link)
+👉 [View Portfolio](https://jyothsnareddy696.github.io/responsive_portfolio/\)
 
 ---
 
@@ -54,9 +54,8 @@ This project was built to:
 
 ## 📬 Contact
 
-- LinkedIn: [Your LinkedIn]
-- GitHub: [Your GitHub]
-- Email: yourmail@example.com
+- LinkedIn: https://www.linkedin.com/in/puchhakayala-jyothsna-reddy-891396362
+- Email: jyothsnareddy696@gmail.com
 
 ---
 
