@@ -5,7 +5,7 @@ This is my personal responsive portfolio website built using HTML, CSS, and Java
 ---
 
 ## 🚀 Live Demo
-👉 [View Portfolio](https://jyothsnareddy696.github.io/responsive_portfolio/\)
+👉 [View Portfolio](https://jyothsnareddy696.github.io/responsive_portfolio/)
 
 ---
 
